@@ -1,0 +1,19 @@
+
+.googol {
+  background-color: violet; }
+.next {
+    background-color: darksalmon;
+}
+
+.pic:hover {
+  background-color: white;
+}
+
+div {
+  background-color: darkslateblue;
+  margin: auto;
+  width: 130px;
+  height: 100px;
+padding: 5px;
+border: groove;
+}
